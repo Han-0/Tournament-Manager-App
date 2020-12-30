@@ -5,7 +5,7 @@ Code contained within this repository was written following instruction by Tim C
 
 TODO:
 
-* "Create Tournament" (in progress)
+* "Create Tournament" form (in progress)
 * Dasboard form
 * tournament viewer
 * refactoring
