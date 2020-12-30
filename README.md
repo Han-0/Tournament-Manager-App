@@ -13,4 +13,4 @@ TODO:
 * user email funtionality
 * wrap-up (debug)
 
-Usage: At completion, this application will be able to connect to a SQL database server for extended functionality.
+Usage: Restore included SQL database backup (Tournaments_backup.bak)
