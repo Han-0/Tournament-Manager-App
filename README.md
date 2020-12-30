@@ -13,4 +13,4 @@ TODO:
 * user email funtionality
 * wrap-up (debug)
 
-Usage: Restore included SQL database backup (Tournaments_backup.bak)
+NOTE: Restore included SQL database backup (Tournaments_backup.bak) to use database functionality.
