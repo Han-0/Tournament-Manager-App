@@ -12,3 +12,5 @@ TODO:
 * error handling
 * user email funtionality
 * wrap-up (debug)
+
+Usage: At completion, this application will be able to connect to a SQL database server for extended functionality.
